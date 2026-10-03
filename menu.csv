@@ -1,0 +1,12 @@
+food_id,food_name,category,portion,calories,meal_period
+B001,Scrambled Eggs,Protein,1/2 cup,210,Breakfast
+B002,Turkey Sausage Patty,Protein,2 each,140,Breakfast
+B003,Pancakes,Grain,2 each,170,Breakfast
+B004,Sweet Potato Puffs,Side,2-1/2 ounce,110,Breakfast
+B005,Fried Hash Brown Patty,Side,1 each,150,Breakfast
+B006,Vegetable Frittata,Protein,1 slice,160,Breakfast
+B007,Grits,Grain,1 ladle-6oz,100,Breakfast
+B008,Shredded Cheddar Cheese,Topping,1 tbsp,30,Breakfast
+B009,Low Fat Vanilla Yogurt,Dairy,1/2 cup,70,Breakfast
+B010,Low Fat Strawberry Yogurt,Dairy,1/2 cup,110,Breakfast
+B011,Fresh Fruit Salad,Fruit,1/2 cup,30,Breakfast

@@ -1,0 +1,201 @@
+timestamp,panther_id,student_name,hunger_level,meal_type,foods_selected,total_calories,waste_level,leftover_food,smartpoints
+2026-09-18 07:15:00,DEMO0032,Demo Student 32,Very Hungry,Custom,Pancakes | Shredded Cheddar Cheese | Low Fat Vanilla Yogurt,270,Nothing,None,20
+2026-09-18 07:41:00,DEMO0033,Demo Student 33,Very Hungry,Custom,Fresh Fruit Salad | Scrambled Eggs,240,A little,Fresh Fruit Salad,10
+2026-09-18 07:47:00,DEMO0051,Demo Student 51,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Sweet Potato Puffs | Turkey Sausage Patty,600,A little,Turkey Sausage Patty,10
+2026-09-18 07:51:00,DEMO0020,Demo Student 20,Very Hungry,Custom,Low Fat Strawberry Yogurt | Fresh Fruit Salad | Scrambled Eggs | Pancakes | Turkey Sausage Patty,660,Nothing,None,20
+2026-09-18 08:01:00,DEMO0036,Demo Student 36,Light,Recommended,Fresh Fruit Salad | Pancakes | Turkey Sausage Patty | Vegetable Frittata,500,Nothing,None,20
+2026-09-18 08:02:00,DEMO0006,Demo Student 06,Light,Custom,Sweet Potato Puffs | Pancakes | Fried Hash Brown Patty,430,Nothing,None,20
+2026-09-18 08:10:00,DEMO0022,Demo Student 22,Moderate,Custom,Grits | Shredded Cheddar Cheese | Scrambled Eggs,340,Some,Grits,5
+2026-09-18 08:38:00,DEMO0037,Demo Student 37,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Sweet Potato Puffs | Vegetable Frittata,700,Nothing,None,20
+2026-09-18 08:51:00,DEMO0017,Demo Student 17,Moderate,Custom,Grits | Turkey Sausage Patty,240,A little,Grits,10
+2026-09-18 09:29:00,DEMO0005,Demo Student 05,Moderate,Custom,Fresh Fruit Salad | Vegetable Frittata | Scrambled Eggs | Grits | Shredded Cheddar Cheese,530,A little,Grits,10
+2026-09-18 09:43:00,DEMO0027,Demo Student 27,Very Hungry,Recommended,Fried Hash Brown Patty | Pancakes | Scrambled Eggs | Shredded Cheddar Cheese | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-18 09:47:00,DEMO0051,Demo Student 51,Light,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Scrambled Eggs | Sweet Potato Puffs,500,Some,Scrambled Eggs,5
+2026-09-18 10:01:00,DEMO0052,Demo Student 52,Light,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Scrambled Eggs | Sweet Potato Puffs,500,Nothing,None,20
+2026-09-18 10:27:00,DEMO0019,Demo Student 19,Moderate,Custom,Fried Hash Brown Patty | Turkey Sausage Patty | Fresh Fruit Salad | Pancakes | Grits,590,Nothing,None,20
+2026-09-19 07:21:00,DEMO0032,Demo Student 32,Very Hungry,Recommended,Fried Hash Brown Patty | Pancakes | Scrambled Eggs | Shredded Cheddar Cheese | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-19 07:23:00,DEMO0016,Demo Student 16,Moderate,Recommended,Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,600,A little,Pancakes,10
+2026-09-19 07:25:00,DEMO0020,Demo Student 20,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Scrambled Eggs | Vegetable Frittata,700,A lot,Scrambled Eggs,0
+2026-09-19 07:32:00,DEMO0027,Demo Student 27,Moderate,Custom,Shredded Cheddar Cheese | Sweet Potato Puffs | Low Fat Strawberry Yogurt | Vegetable Frittata | Pancakes | Fresh Fruit Salad,610,Some,Sweet Potato Puffs,5
+2026-09-19 08:13:00,DEMO0044,Demo Student 44,Very Hungry,Custom,Sweet Potato Puffs | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Turkey Sausage Patty | Low Fat Vanilla Yogurt | Shredded Cheddar Cheese,610,Nothing,None,20
+2026-09-19 08:25:00,DEMO0050,Demo Student 50,Light,Recommended,Fried Hash Brown Patty | Grits | Sweet Potato Puffs | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-19 08:29:00,DEMO0036,Demo Student 36,Moderate,Custom,Pancakes | Sweet Potato Puffs | Fried Hash Brown Patty | Shredded Cheddar Cheese | Low Fat Strawberry Yogurt,570,Some,Sweet Potato Puffs,5
+2026-09-19 08:40:00,DEMO0054,Demo Student 54,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Scrambled Eggs | Sweet Potato Puffs | Vegetable Frittata,700,Nothing,None,20
+2026-09-19 08:42:00,DEMO0050,Demo Student 50,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Scrambled Eggs,600,Nothing,None,20
+2026-09-19 08:48:00,DEMO0044,Demo Student 44,Light,Recommended,Fresh Fruit Salad | Pancakes | Turkey Sausage Patty | Vegetable Frittata,500,A little,Vegetable Frittata,10
+2026-09-19 09:01:00,DEMO0058,Demo Student 58,Very Hungry,Custom,Vegetable Frittata | Fresh Fruit Salad | Turkey Sausage Patty,330,Nothing,None,20
+2026-09-19 09:10:00,DEMO0009,Demo Student 09,Light,Custom,Vegetable Frittata | Turkey Sausage Patty | Fresh Fruit Salad | Fried Hash Brown Patty,480,Nothing,None,20
+2026-09-19 09:18:00,DEMO0041,Demo Student 41,Moderate,Custom,Fried Hash Brown Patty | Shredded Cheddar Cheese | Grits | Vegetable Frittata | Low Fat Strawberry Yogurt,550,Nothing,None,20
+2026-09-19 09:32:00,DEMO0052,Demo Student 52,Light,Custom,Low Fat Strawberry Yogurt | Turkey Sausage Patty | Fresh Fruit Salad | Low Fat Vanilla Yogurt | Fried Hash Brown Patty,500,Nothing,None,20
+2026-09-19 09:32:00,DEMO0052,Demo Student 52,Very Hungry,Recommended,Fried Hash Brown Patty | Grits | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,700,Nothing,None,20
+2026-09-19 09:35:00,DEMO0037,Demo Student 37,Very Hungry,Recommended,Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-20 07:15:00,DEMO0009,Demo Student 09,Moderate,Custom,Low Fat Vanilla Yogurt | Fresh Fruit Salad | Scrambled Eggs | Pancakes,480,Nothing,None,20
+2026-09-20 07:34:00,DEMO0016,Demo Student 16,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Sweet Potato Puffs | Turkey Sausage Patty,600,A little,Pancakes,10
+2026-09-20 08:12:00,DEMO0046,Demo Student 46,Very Hungry,Recommended,Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-20 08:16:00,DEMO0002,Demo Student 02,Moderate,Custom,Grits | Low Fat Strawberry Yogurt | Sweet Potato Puffs | Fried Hash Brown Patty | Scrambled Eggs | Pancakes,850,Some,Scrambled Eggs,5
+2026-09-20 08:16:00,DEMO0015,Demo Student 15,Very Hungry,Custom,Pancakes | Vegetable Frittata | Low Fat Strawberry Yogurt | Sweet Potato Puffs,550,A lot,Sweet Potato Puffs,0
+2026-09-20 08:34:00,DEMO0051,Demo Student 51,Very Hungry,Recommended,Grits | Low Fat Strawberry Yogurt | Pancakes | Scrambled Eggs | Sweet Potato Puffs,700,Nothing,None,20
+2026-09-20 08:37:00,DEMO0036,Demo Student 36,Very Hungry,Recommended,Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-20 08:38:00,DEMO0017,Demo Student 17,Light,Custom,Low Fat Strawberry Yogurt | Shredded Cheddar Cheese,140,Nothing,None,20
+2026-09-20 09:10:00,DEMO0040,Demo Student 40,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Sweet Potato Puffs | Vegetable Frittata,700,A lot,Sweet Potato Puffs,0
+2026-09-20 09:15:00,DEMO0050,Demo Student 50,Moderate,Custom,Turkey Sausage Patty | Grits | Scrambled Eggs,450,A little,Grits,10
+2026-09-20 09:35:00,DEMO0015,Demo Student 15,Moderate,Recommended,Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,600,Nothing,None,20
+2026-09-20 09:47:00,DEMO0039,Demo Student 39,Light,Custom,Fried Hash Brown Patty | Vegetable Frittata,310,Some,Vegetable Frittata,5
+2026-09-20 10:14:00,DEMO0021,Demo Student 21,Light,Recommended,Fried Hash Brown Patty | Scrambled Eggs | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-21 07:17:00,DEMO0051,Demo Student 51,Moderate,Recommended,Fried Hash Brown Patty | Grits | Scrambled Eggs | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-21 07:30:00,DEMO0005,Demo Student 05,Moderate,Custom,Scrambled Eggs | Turkey Sausage Patty | Fried Hash Brown Patty,500,Nothing,None,20
+2026-09-21 07:36:00,DEMO0033,Demo Student 33,Moderate,Custom,Low Fat Vanilla Yogurt | Sweet Potato Puffs | Scrambled Eggs,390,Nothing,None,20
+2026-09-21 07:53:00,DEMO0055,Demo Student 55,Very Hungry,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,Some,Pancakes,5
+2026-09-21 08:18:00,DEMO0051,Demo Student 51,Moderate,Custom,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Sweet Potato Puffs | Fresh Fruit Salad,400,Nothing,None,20
+2026-09-21 08:28:00,DEMO0025,Demo Student 25,Very Hungry,Custom,Pancakes | Turkey Sausage Patty,310,Nothing,None,20
+2026-09-21 08:32:00,DEMO0024,Demo Student 24,Very Hungry,Recommended,Fried Hash Brown Patty | Grits | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,700,Nothing,None,20
+2026-09-21 08:38:00,DEMO0011,Demo Student 11,Very Hungry,Recommended,Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-21 08:55:00,DEMO0055,Demo Student 55,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,A lot,Grits,0
+2026-09-21 09:00:00,DEMO0014,Demo Student 14,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-21 09:02:00,DEMO0037,Demo Student 37,Moderate,Custom,Pancakes | Shredded Cheddar Cheese | Grits | Sweet Potato Puffs | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt,590,Nothing,None,20
+2026-09-21 09:23:00,DEMO0025,Demo Student 25,Moderate,Custom,Low Fat Strawberry Yogurt | Turkey Sausage Patty | Sweet Potato Puffs | Fresh Fruit Salad,390,Nothing,None,20
+2026-09-21 09:27:00,DEMO0008,Demo Student 08,Moderate,Custom,Fried Hash Brown Patty | Scrambled Eggs | Vegetable Frittata | Fresh Fruit Salad | Turkey Sausage Patty,690,Nothing,None,20
+2026-09-21 09:28:00,DEMO0010,Demo Student 10,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-21 09:34:00,DEMO0056,Demo Student 56,Moderate,Recommended,Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,600,Nothing,None,20
+2026-09-21 09:39:00,DEMO0026,Demo Student 26,Moderate,Custom,Fresh Fruit Salad | Vegetable Frittata | Pancakes | Low Fat Strawberry Yogurt,470,Nothing,None,20
+2026-09-21 09:52:00,DEMO0042,Demo Student 42,Moderate,Custom,Sweet Potato Puffs | Fried Hash Brown Patty | Turkey Sausage Patty | Shredded Cheddar Cheese | Grits,530,A lot,Grits,0
+2026-09-21 10:01:00,DEMO0054,Demo Student 54,Light,Custom,Low Fat Strawberry Yogurt | Fried Hash Brown Patty | Pancakes,430,A little,Pancakes,10
+2026-09-21 10:13:00,DEMO0047,Demo Student 47,Moderate,Custom,Shredded Cheddar Cheese | Fresh Fruit Salad | Low Fat Strawberry Yogurt | Turkey Sausage Patty | Fried Hash Brown Patty | Grits,560,Some,Fried Hash Brown Patty,5
+2026-09-22 08:24:00,DEMO0056,Demo Student 56,Moderate,Custom,Fried Hash Brown Patty | Pancakes | Sweet Potato Puffs,430,Nothing,None,20
+2026-09-22 08:26:00,DEMO0026,Demo Student 26,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-22 08:49:00,DEMO0013,Demo Student 13,Very Hungry,Recommended,Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-22 09:01:00,DEMO0038,Demo Student 38,Light,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Scrambled Eggs,500,Nothing,None,20
+2026-09-22 09:02:00,DEMO0012,Demo Student 12,Moderate,Custom,Sweet Potato Puffs | Low Fat Vanilla Yogurt | Fresh Fruit Salad | Low Fat Strawberry Yogurt | Scrambled Eggs | Vegetable Frittata,690,Some,Low Fat Vanilla Yogurt,5
+2026-09-22 09:32:00,DEMO0030,Demo Student 30,Moderate,Custom,Fresh Fruit Salad | Turkey Sausage Patty,170,A lot,Turkey Sausage Patty,0
+2026-09-22 09:39:00,DEMO0036,Demo Student 36,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Scrambled Eggs,600,A little,Grits,10
+2026-09-22 09:53:00,DEMO0041,Demo Student 41,Moderate,Custom,Low Fat Vanilla Yogurt | Grits | Low Fat Strawberry Yogurt,280,Some,Grits,5
+2026-09-22 10:01:00,DEMO0032,Demo Student 32,Moderate,Custom,Shredded Cheddar Cheese | Vegetable Frittata | Turkey Sausage Patty | Scrambled Eggs | Pancakes | Fried Hash Brown Patty,860,Some,Scrambled Eggs,5
+2026-09-22 10:04:00,DEMO0024,Demo Student 24,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-22 10:18:00,DEMO0008,Demo Student 08,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Sweet Potato Puffs | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-23 07:18:00,DEMO0038,Demo Student 38,Light,Custom,Turkey Sausage Patty | Fresh Fruit Salad | Vegetable Frittata | Grits | Sweet Potato Puffs,540,A little,Fresh Fruit Salad,10
+2026-09-23 08:17:00,DEMO0050,Demo Student 50,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Scrambled Eggs | Vegetable Frittata,700,Some,Low Fat Strawberry Yogurt,5
+2026-09-23 08:27:00,DEMO0016,Demo Student 16,Very Hungry,Recommended,Grits | Low Fat Strawberry Yogurt | Pancakes | Scrambled Eggs | Sweet Potato Puffs,700,A little,Low Fat Strawberry Yogurt,10
+2026-09-23 08:29:00,DEMO0052,Demo Student 52,Light,Custom,Sweet Potato Puffs | Shredded Cheddar Cheese | Grits | Fried Hash Brown Patty | Fresh Fruit Salad | Turkey Sausage Patty,560,Some,Turkey Sausage Patty,5
+2026-09-23 08:48:00,DEMO0045,Demo Student 45,Moderate,Custom,Fried Hash Brown Patty | Pancakes | Sweet Potato Puffs | Vegetable Frittata,590,Nothing,None,20
+2026-09-23 09:30:00,DEMO0004,Demo Student 04,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Scrambled Eggs,600,Nothing,None,20
+2026-09-23 09:51:00,DEMO0040,Demo Student 40,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-23 10:03:00,DEMO0001,Demo Student 01,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Scrambled Eggs | Vegetable Frittata,700,Some,Vegetable Frittata,5
+2026-09-23 10:03:00,DEMO0003,Demo Student 03,Light,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Scrambled Eggs | Sweet Potato Puffs,500,A little,Scrambled Eggs,10
+2026-09-23 10:14:00,DEMO0047,Demo Student 47,Moderate,Custom,Low Fat Strawberry Yogurt | Scrambled Eggs | Fresh Fruit Salad,350,Nothing,None,20
+2026-09-24 07:27:00,DEMO0011,Demo Student 11,Moderate,Custom,Fresh Fruit Salad | Grits | Shredded Cheddar Cheese,160,Nothing,None,20
+2026-09-24 07:33:00,DEMO0010,Demo Student 10,Light,Recommended,Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-24 07:44:00,DEMO0013,Demo Student 13,Moderate,Recommended,Low Fat Strawberry Yogurt | Pancakes | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-24 08:04:00,DEMO0041,Demo Student 41,Moderate,Custom,Grits | Shredded Cheddar Cheese | Vegetable Frittata,290,Nothing,None,20
+2026-09-24 08:44:00,DEMO0028,Demo Student 28,Light,Recommended,Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-24 08:48:00,DEMO0010,Demo Student 10,Light,Recommended,Fried Hash Brown Patty | Grits | Sweet Potato Puffs | Turkey Sausage Patty,500,A little,Grits,10
+2026-09-24 08:52:00,DEMO0051,Demo Student 51,Light,Recommended,Fried Hash Brown Patty | Scrambled Eggs | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-24 09:02:00,DEMO0001,Demo Student 01,Light,Custom,Shredded Cheddar Cheese | Grits,130,Nothing,None,20
+2026-09-24 09:26:00,DEMO0015,Demo Student 15,Moderate,Custom,Vegetable Frittata | Sweet Potato Puffs | Grits | Pancakes,540,Nothing,None,20
+2026-09-24 09:28:00,DEMO0042,Demo Student 42,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,A little,Grits,10
+2026-09-24 09:30:00,DEMO0024,Demo Student 24,Moderate,Custom,Grits | Pancakes | Sweet Potato Puffs | Low Fat Strawberry Yogurt | Vegetable Frittata,650,A little,Grits,10
+2026-09-24 09:30:00,DEMO0056,Demo Student 56,Light,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Scrambled Eggs | Sweet Potato Puffs,500,Nothing,None,20
+2026-09-24 09:34:00,DEMO0009,Demo Student 09,Moderate,Recommended,Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,600,Nothing,None,20
+2026-09-24 09:34:00,DEMO0035,Demo Student 35,Light,Recommended,Fried Hash Brown Patty | Grits | Sweet Potato Puffs | Turkey Sausage Patty,500,A lot,Grits,0
+2026-09-24 09:39:00,DEMO0020,Demo Student 20,Moderate,Custom,Fresh Fruit Salad | Vegetable Frittata,190,Nothing,None,20
+2026-09-24 09:39:00,DEMO0036,Demo Student 36,Very Hungry,Custom,Grits | Vegetable Frittata | Turkey Sausage Patty,400,A little,Grits,10
+2026-09-24 09:40:00,DEMO0034,Demo Student 34,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Scrambled Eggs | Sweet Potato Puffs | Vegetable Frittata,700,Nothing,None,20
+2026-09-24 10:22:00,DEMO0034,Demo Student 34,Moderate,Recommended,Fried Hash Brown Patty | Grits | Scrambled Eggs | Turkey Sausage Patty,600,A little,Scrambled Eggs,10
+2026-09-24 10:29:00,DEMO0005,Demo Student 05,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,A little,Fresh Fruit Salad,10
+2026-09-25 07:16:00,DEMO0029,Demo Student 29,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Scrambled Eggs,600,Nothing,None,20
+2026-09-25 07:19:00,DEMO0060,Demo Student 60,Very Hungry,Custom,Sweet Potato Puffs | Fried Hash Brown Patty | Scrambled Eggs,470,A lot,Sweet Potato Puffs,0
+2026-09-25 07:20:00,DEMO0005,Demo Student 05,Very Hungry,Custom,Grits | Scrambled Eggs | Pancakes | Fried Hash Brown Patty | Low Fat Vanilla Yogurt,700,Nothing,None,20
+2026-09-25 07:25:00,DEMO0053,Demo Student 53,Light,Custom,Shredded Cheddar Cheese | Low Fat Vanilla Yogurt,100,Nothing,None,20
+2026-09-25 07:36:00,DEMO0047,Demo Student 47,Very Hungry,Recommended,Fried Hash Brown Patty | Pancakes | Scrambled Eggs | Shredded Cheddar Cheese | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-25 07:51:00,DEMO0012,Demo Student 12,Light,Custom,Grits | Pancakes | Vegetable Frittata | Sweet Potato Puffs | Scrambled Eggs | Low Fat Strawberry Yogurt,860,A lot,Grits,0
+2026-09-25 08:19:00,DEMO0047,Demo Student 47,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Sweet Potato Puffs | Vegetable Frittata,700,Nothing,None,20
+2026-09-25 08:38:00,DEMO0026,Demo Student 26,Very Hungry,Custom,Fresh Fruit Salad | Pancakes | Scrambled Eggs | Turkey Sausage Patty | Low Fat Vanilla Yogurt | Grits,720,A little,Fresh Fruit Salad,10
+2026-09-25 08:43:00,DEMO0047,Demo Student 47,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Sweet Potato Puffs | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-25 09:20:00,DEMO0023,Demo Student 23,Light,Custom,Shredded Cheddar Cheese | Sweet Potato Puffs | Grits,240,A little,Grits,10
+2026-09-25 09:29:00,DEMO0030,Demo Student 30,Moderate,Custom,Fried Hash Brown Patty | Sweet Potato Puffs | Shredded Cheddar Cheese | Low Fat Vanilla Yogurt | Turkey Sausage Patty,500,A lot,Turkey Sausage Patty,0
+2026-09-25 09:41:00,DEMO0036,Demo Student 36,Moderate,Custom,Fried Hash Brown Patty | Sweet Potato Puffs | Fresh Fruit Salad | Low Fat Strawberry Yogurt,400,Nothing,None,20
+2026-09-25 09:42:00,DEMO0005,Demo Student 05,Light,Custom,Scrambled Eggs | Low Fat Strawberry Yogurt | Vegetable Frittata,480,A little,Vegetable Frittata,10
+2026-09-25 09:44:00,DEMO0034,Demo Student 34,Light,Recommended,Fried Hash Brown Patty | Grits | Sweet Potato Puffs | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-26 07:33:00,DEMO0058,Demo Student 58,Very Hungry,Custom,Pancakes | Turkey Sausage Patty | Shredded Cheddar Cheese | Low Fat Strawberry Yogurt,450,Nothing,None,20
+2026-09-26 07:39:00,DEMO0014,Demo Student 14,Very Hungry,Custom,Turkey Sausage Patty | Vegetable Frittata | Fried Hash Brown Patty,450,Nothing,None,20
+2026-09-26 07:45:00,DEMO0054,Demo Student 54,Very Hungry,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-26 08:18:00,DEMO0059,Demo Student 59,Light,Custom,Low Fat Strawberry Yogurt | Fried Hash Brown Patty | Shredded Cheddar Cheese | Fresh Fruit Salad | Sweet Potato Puffs | Pancakes,600,A lot,Pancakes,0
+2026-09-26 08:21:00,DEMO0057,Demo Student 57,Light,Custom,Fried Hash Brown Patty | Grits | Fresh Fruit Salad,280,A little,Grits,10
+2026-09-26 08:22:00,DEMO0016,Demo Student 16,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Scrambled Eggs | Turkey Sausage Patty,600,A little,Scrambled Eggs,10
+2026-09-26 08:29:00,DEMO0010,Demo Student 10,Very Hungry,Custom,Fresh Fruit Salad | Shredded Cheddar Cheese | Low Fat Strawberry Yogurt | Turkey Sausage Patty | Grits | Low Fat Vanilla Yogurt,480,Nothing,None,20
+2026-09-26 08:34:00,DEMO0050,Demo Student 50,Moderate,Custom,Fried Hash Brown Patty | Pancakes | Sweet Potato Puffs,430,Nothing,None,20
+2026-09-26 08:39:00,DEMO0027,Demo Student 27,Very Hungry,Custom,Grits | Fried Hash Brown Patty | Shredded Cheddar Cheese | Low Fat Vanilla Yogurt | Fresh Fruit Salad | Vegetable Frittata,540,A little,Low Fat Vanilla Yogurt,10
+2026-09-26 08:42:00,DEMO0030,Demo Student 30,Light,Custom,Grits | Low Fat Vanilla Yogurt,170,Nothing,None,20
+2026-09-26 09:02:00,DEMO0051,Demo Student 51,Very Hungry,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,A little,Pancakes,10
+2026-09-26 09:23:00,DEMO0003,Demo Student 03,Light,Recommended,Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-26 09:40:00,DEMO0008,Demo Student 08,Moderate,Custom,Low Fat Vanilla Yogurt | Sweet Potato Puffs | Turkey Sausage Patty | Shredded Cheddar Cheese,350,A little,Sweet Potato Puffs,10
+2026-09-26 10:15:00,DEMO0033,Demo Student 33,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,A little,Scrambled Eggs,10
+2026-09-26 10:17:00,DEMO0013,Demo Student 13,Very Hungry,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Scrambled Eggs | Turkey Sausage Patty,700,Nothing,None,20
+2026-09-26 10:19:00,DEMO0022,Demo Student 22,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Scrambled Eggs | Vegetable Frittata,700,Nothing,None,20
+2026-09-27 07:27:00,DEMO0020,Demo Student 20,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-27 07:35:00,DEMO0037,Demo Student 37,Moderate,Custom,Scrambled Eggs | Turkey Sausage Patty | Fried Hash Brown Patty | Sweet Potato Puffs,610,Nothing,None,20
+2026-09-27 07:55:00,DEMO0046,Demo Student 46,Light,Recommended,Fried Hash Brown Patty | Grits | Sweet Potato Puffs | Turkey Sausage Patty,500,Some,Turkey Sausage Patty,5
+2026-09-27 07:55:00,DEMO0056,Demo Student 56,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Scrambled Eggs,600,Nothing,None,20
+2026-09-27 08:15:00,DEMO0030,Demo Student 30,Light,Recommended,Fried Hash Brown Patty | Scrambled Eggs | Turkey Sausage Patty,500,A little,Scrambled Eggs,10
+2026-09-27 08:19:00,DEMO0040,Demo Student 40,Moderate,Recommended,Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,600,Nothing,None,20
+2026-09-27 08:34:00,DEMO0004,Demo Student 04,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-27 08:53:00,DEMO0051,Demo Student 51,Very Hungry,Custom,Low Fat Strawberry Yogurt | Shredded Cheddar Cheese,140,Nothing,None,20
+2026-09-27 08:54:00,DEMO0006,Demo Student 06,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-27 09:22:00,DEMO0051,Demo Student 51,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Scrambled Eggs,600,Nothing,None,20
+2026-09-27 09:47:00,DEMO0039,Demo Student 39,Moderate,Custom,Pancakes | Grits | Shredded Cheddar Cheese | Fresh Fruit Salad | Low Fat Strawberry Yogurt,440,Nothing,None,20
+2026-09-27 09:52:00,DEMO0032,Demo Student 32,Moderate,Recommended,Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,600,A little,Pancakes,10
+2026-09-27 10:15:00,DEMO0046,Demo Student 46,Light,Recommended,Fried Hash Brown Patty | Scrambled Eggs | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-27 10:19:00,DEMO0010,Demo Student 10,Moderate,Custom,Low Fat Vanilla Yogurt | Shredded Cheddar Cheese | Fried Hash Brown Patty | Scrambled Eggs | Low Fat Strawberry Yogurt,570,A little,Scrambled Eggs,10
+2026-09-28 07:24:00,DEMO0034,Demo Student 34,Moderate,Custom,Vegetable Frittata | Low Fat Vanilla Yogurt | Pancakes,400,Some,Vegetable Frittata,5
+2026-09-28 07:38:00,DEMO0057,Demo Student 57,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,A little,Fried Hash Brown Patty,10
+2026-09-28 07:39:00,DEMO0031,Demo Student 31,Light,Recommended,Fresh Fruit Salad | Grits | Scrambled Eggs | Vegetable Frittata,500,A little,Grits,10
+2026-09-28 07:50:00,DEMO0036,Demo Student 36,Very Hungry,Recommended,Grits | Low Fat Strawberry Yogurt | Pancakes | Scrambled Eggs | Sweet Potato Puffs,700,A lot,Sweet Potato Puffs,0
+2026-09-28 07:55:00,DEMO0036,Demo Student 36,Light,Custom,Fried Hash Brown Patty | Vegetable Frittata | Turkey Sausage Patty | Scrambled Eggs,660,Some,Turkey Sausage Patty,5
+2026-09-28 07:55:00,DEMO0046,Demo Student 46,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Scrambled Eggs,600,Nothing,None,20
+2026-09-28 08:05:00,DEMO0041,Demo Student 41,Light,Recommended,Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Turkey Sausage Patty,500,Nothing,None,20
+2026-09-28 08:56:00,DEMO0012,Demo Student 12,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Scrambled Eggs | Vegetable Frittata,700,A little,Low Fat Strawberry Yogurt,10
+2026-09-28 09:07:00,DEMO0040,Demo Student 40,Moderate,Custom,Fresh Fruit Salad | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt,210,A little,Low Fat Strawberry Yogurt,10
+2026-09-28 09:28:00,DEMO0046,Demo Student 46,Light,Custom,Turkey Sausage Patty | Shredded Cheddar Cheese | Low Fat Strawberry Yogurt,280,A little,Turkey Sausage Patty,10
+2026-09-28 09:38:00,DEMO0060,Demo Student 60,Light,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Scrambled Eggs,500,A little,Low Fat Strawberry Yogurt,10
+2026-09-28 09:47:00,DEMO0049,Demo Student 49,Moderate,Recommended,Low Fat Strawberry Yogurt | Pancakes | Scrambled Eggs | Sweet Potato Puffs,600,A little,Pancakes,10
+2026-09-28 09:52:00,DEMO0029,Demo Student 29,Very Hungry,Custom,Shredded Cheddar Cheese | Low Fat Vanilla Yogurt | Sweet Potato Puffs | Pancakes | Grits,480,Nothing,None,20
+2026-09-28 09:56:00,DEMO0031,Demo Student 31,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Scrambled Eggs | Turkey Sausage Patty,600,A little,Fresh Fruit Salad,10
+2026-09-28 10:18:00,DEMO0021,Demo Student 21,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-28 10:30:00,DEMO0001,Demo Student 01,Very Hungry,Custom,Sweet Potato Puffs | Low Fat Vanilla Yogurt,180,Nothing,None,20
+2026-09-29 07:26:00,DEMO0021,Demo Student 21,Light,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Scrambled Eggs | Shredded Cheddar Cheese,500,Nothing,None,20
+2026-09-29 07:44:00,DEMO0049,Demo Student 49,Light,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Scrambled Eggs | Shredded Cheddar Cheese,500,A lot,Low Fat Strawberry Yogurt,0
+2026-09-29 07:46:00,DEMO0005,Demo Student 05,Moderate,Custom,Fresh Fruit Salad | Grits,130,Nothing,None,20
+2026-09-29 08:03:00,DEMO0009,Demo Student 09,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Scrambled Eggs | Vegetable Frittata,700,A little,Scrambled Eggs,10
+2026-09-29 08:10:00,DEMO0003,Demo Student 03,Moderate,Custom,Fried Hash Brown Patty | Fresh Fruit Salad | Pancakes | Shredded Cheddar Cheese | Sweet Potato Puffs | Low Fat Strawberry Yogurt,600,A lot,Fried Hash Brown Patty,0
+2026-09-29 08:16:00,DEMO0032,Demo Student 32,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Scrambled Eggs | Turkey Sausage Patty,600,Some,Low Fat Vanilla Yogurt,5
+2026-09-29 08:34:00,DEMO0020,Demo Student 20,Very Hungry,Recommended,Fried Hash Brown Patty | Grits | Low Fat Vanilla Yogurt | Pancakes | Scrambled Eggs,700,Nothing,None,20
+2026-09-29 08:42:00,DEMO0024,Demo Student 24,Moderate,Custom,Sweet Potato Puffs | Scrambled Eggs | Pancakes | Grits | Fried Hash Brown Patty | Vegetable Frittata,900,Nothing,None,20
+2026-09-29 08:49:00,DEMO0059,Demo Student 59,Light,Custom,Grits | Pancakes | Vegetable Frittata,430,Nothing,None,20
+2026-09-29 08:57:00,DEMO0053,Demo Student 53,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Scrambled Eggs | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-29 09:21:00,DEMO0001,Demo Student 01,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Sweet Potato Puffs | Vegetable Frittata,700,Nothing,None,20
+2026-09-29 09:56:00,DEMO0024,Demo Student 24,Moderate,Recommended,Fried Hash Brown Patty | Grits | Scrambled Eggs | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-29 10:01:00,DEMO0006,Demo Student 06,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Turkey Sausage Patty,600,Some,Fresh Fruit Salad,5
+2026-09-30 07:27:00,DEMO0051,Demo Student 51,Moderate,Custom,Shredded Cheddar Cheese | Sweet Potato Puffs | Scrambled Eggs | Fried Hash Brown Patty | Turkey Sausage Patty,640,Nothing,None,20
+2026-09-30 07:33:00,DEMO0006,Demo Student 06,Light,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Scrambled Eggs,500,Nothing,None,20
+2026-09-30 07:42:00,DEMO0043,Demo Student 43,Light,Custom,Low Fat Vanilla Yogurt | Turkey Sausage Patty | Fried Hash Brown Patty | Vegetable Frittata | Grits,620,A little,Low Fat Vanilla Yogurt,10
+2026-09-30 07:52:00,DEMO0022,Demo Student 22,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Scrambled Eggs | Vegetable Frittata,700,Nothing,None,20
+2026-09-30 07:57:00,DEMO0031,Demo Student 31,Very Hungry,Recommended,Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Low Fat Vanilla Yogurt | Scrambled Eggs | Vegetable Frittata,700,Nothing,None,20
+2026-09-30 08:05:00,DEMO0032,Demo Student 32,Moderate,Custom,Low Fat Strawberry Yogurt | Scrambled Eggs | Turkey Sausage Patty | Low Fat Vanilla Yogurt | Vegetable Frittata,690,A little,Turkey Sausage Patty,10
+2026-09-30 08:06:00,DEMO0026,Demo Student 26,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Vanilla Yogurt | Scrambled Eggs | Turkey Sausage Patty,600,Nothing,None,20
+2026-09-30 08:34:00,DEMO0039,Demo Student 39,Moderate,Custom,Shredded Cheddar Cheese | Pancakes | Fried Hash Brown Patty,350,Nothing,None,20
+2026-09-30 08:50:00,DEMO0031,Demo Student 31,Moderate,Custom,Fresh Fruit Salad | Turkey Sausage Patty | Sweet Potato Puffs | Vegetable Frittata,440,Nothing,None,20
+2026-09-30 08:55:00,DEMO0010,Demo Student 10,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-30 09:27:00,DEMO0027,Demo Student 27,Light,Recommended,Fresh Fruit Salad | Pancakes | Turkey Sausage Patty | Vegetable Frittata,500,Nothing,None,20
+2026-09-30 09:46:00,DEMO0026,Demo Student 26,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Grits | Scrambled Eggs | Sweet Potato Puffs,600,Nothing,None,20
+2026-09-30 10:12:00,DEMO0011,Demo Student 11,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Pancakes | Sweet Potato Puffs | Turkey Sausage Patty,600,A little,Pancakes,10
+2026-10-01 07:25:00,DEMO0057,Demo Student 57,Light,Recommended,Fried Hash Brown Patty | Grits | Low Fat Strawberry Yogurt | Turkey Sausage Patty,500,A little,Grits,10
+2026-10-01 07:41:00,DEMO0007,Demo Student 07,Moderate,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Pancakes | Turkey Sausage Patty,600,Nothing,None,20
+2026-10-01 07:42:00,DEMO0047,Demo Student 47,Moderate,Custom,Grits | Sweet Potato Puffs | Low Fat Vanilla Yogurt | Fried Hash Brown Patty | Fresh Fruit Salad | Turkey Sausage Patty,600,Nothing,None,20
+2026-10-01 07:49:00,DEMO0035,Demo Student 35,Light,Custom,Low Fat Vanilla Yogurt | Sweet Potato Puffs | Fresh Fruit Salad,210,Nothing,None,20
+2026-10-01 08:27:00,DEMO0051,Demo Student 51,Light,Custom,Low Fat Vanilla Yogurt | Pancakes | Low Fat Strawberry Yogurt | Fresh Fruit Salad | Scrambled Eggs,590,Nothing,None,20
+2026-10-01 08:40:00,DEMO0047,Demo Student 47,Light,Custom,Low Fat Vanilla Yogurt | Fresh Fruit Salad | Turkey Sausage Patty | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Vegetable Frittata,660,Nothing,None,20
+2026-10-01 08:47:00,DEMO0051,Demo Student 51,Moderate,Recommended,Fried Hash Brown Patty | Grits | Scrambled Eggs | Turkey Sausage Patty,600,Some,Grits,5
+2026-10-01 09:33:00,DEMO0023,Demo Student 23,Moderate,Custom,Grits | Vegetable Frittata,260,Nothing,None,20
+2026-10-01 09:47:00,DEMO0007,Demo Student 07,Light,Recommended,Fresh Fruit Salad | Pancakes | Turkey Sausage Patty | Vegetable Frittata,500,Some,Pancakes,5
+2026-10-01 09:51:00,DEMO0054,Demo Student 54,Moderate,Custom,Low Fat Vanilla Yogurt | Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Vegetable Frittata | Sweet Potato Puffs,630,Nothing,None,20
+2026-10-01 09:56:00,DEMO0039,Demo Student 39,Light,Recommended,Fried Hash Brown Patty | Scrambled Eggs | Turkey Sausage Patty,500,A little,Turkey Sausage Patty,10
+2026-10-01 10:10:00,DEMO0026,Demo Student 26,Light,Recommended,Fresh Fruit Salad | Fried Hash Brown Patty | Low Fat Strawberry Yogurt | Scrambled Eggs,500,Nothing,None,20
